@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Generate synthetic weather data for 30 days
+# Generate weather data for 30 days
 days = np.arange(1, 31)
 
 # Max temperature (mean=31°C, std=2)
